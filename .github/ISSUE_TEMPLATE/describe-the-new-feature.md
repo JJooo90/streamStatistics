@@ -2,12 +2,14 @@
 name: Describe the new feature
 about: Suggest an idea for this project
 title: ''
-labels: enhancement
-assignees: JJooo90
+labels: ''
+assignees: ''
 
 ---
 
-## TODO
+## 제목
+
+### TODO
 -[] checkbox
   -[] checkbox
 
